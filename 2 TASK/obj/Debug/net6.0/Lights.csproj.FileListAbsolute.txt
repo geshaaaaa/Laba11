@@ -1,0 +1,15 @@
+D:\C#\Lights\bin\Debug\net6.0\Lights.exe
+D:\C#\Lights\bin\Debug\net6.0\Lights.deps.json
+D:\C#\Lights\bin\Debug\net6.0\Lights.runtimeconfig.json
+D:\C#\Lights\bin\Debug\net6.0\Lights.dll
+D:\C#\Lights\bin\Debug\net6.0\Lights.pdb
+D:\C#\Lights\obj\Debug\net6.0\Lights.csproj.AssemblyReference.cache
+D:\C#\Lights\obj\Debug\net6.0\Lights.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lights\obj\Debug\net6.0\Lights.AssemblyInfoInputs.cache
+D:\C#\Lights\obj\Debug\net6.0\Lights.AssemblyInfo.cs
+D:\C#\Lights\obj\Debug\net6.0\Lights.csproj.CoreCompileInputs.cache
+D:\C#\Lights\obj\Debug\net6.0\Lights.dll
+D:\C#\Lights\obj\Debug\net6.0\refint\Lights.dll
+D:\C#\Lights\obj\Debug\net6.0\Lights.pdb
+D:\C#\Lights\obj\Debug\net6.0\Lights.genruntimeconfig.cache
+D:\C#\Lights\obj\Debug\net6.0\ref\Lights.dll

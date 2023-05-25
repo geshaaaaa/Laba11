@@ -1,0 +1,15 @@
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.csproj.AssemblyReference.cache
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.AssemblyInfoInputs.cache
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.AssemblyInfo.cs
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.csproj.CoreCompileInputs.cache
+D:\C#\produce-consumer\bin\Debug\net6.0\produce-consumer.exe
+D:\C#\produce-consumer\bin\Debug\net6.0\produce-consumer.deps.json
+D:\C#\produce-consumer\bin\Debug\net6.0\produce-consumer.runtimeconfig.json
+D:\C#\produce-consumer\bin\Debug\net6.0\produce-consumer.dll
+D:\C#\produce-consumer\bin\Debug\net6.0\produce-consumer.pdb
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.dll
+D:\C#\produce-consumer\obj\Debug\net6.0\refint\produce-consumer.dll
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.pdb
+D:\C#\produce-consumer\obj\Debug\net6.0\produce-consumer.genruntimeconfig.cache
+D:\C#\produce-consumer\obj\Debug\net6.0\ref\produce-consumer.dll
